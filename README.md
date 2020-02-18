@@ -1,6 +1,6 @@
-# camera_app
+# Flutter Webview Camera
 
-Camera App Test
+Integrated native camera application along with the webview and image uploading using URLs.
 
 ## Getting Started
 
